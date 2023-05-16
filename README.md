@@ -1,4 +1,4 @@
-# Philippines Textile Pattern Recognition
+# Philippine Textiles Classification
 
 This project focuses on the recognition of Philippines indigenous textile patterns using Convolutional Neural Networks (CNN). The goal is to develop a system that can automatically identify and classify various traditional textile patterns found in the Philippines, utilizing TensorFlow and MobileNetV2.
 
