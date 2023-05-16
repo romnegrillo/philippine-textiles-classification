@@ -2,6 +2,8 @@
 
 This project focuses on the recognition of Philippines indigenous textile patterns using Convolutional Neural Networks (CNN). The goal is to develop a system that can automatically identify and classify various traditional textile patterns found in the Philippines, utilizing TensorFlow and MobileNetV2.
 
+![Sample Output](captured_images/binetwagan/2022-01-01-17-03-45.jpg)
+
 ## Languages and Tools Used
 
 The project was developed using the following languages and tools:
@@ -69,4 +71,4 @@ Then use the command `sudo raspi-config` to enable it.
 
 Reboot and run the main program again: `python main.py`
 
-In the older version of Raspbian, `python` still points to Python 2. If the command above doesn't work use `python3 main.py`.
+In the older version of Raspbian, `python` still points to Python 2. If the command above doesn't work, use `python3 main.py`.
